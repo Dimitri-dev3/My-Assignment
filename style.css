@@ -1,0 +1,27 @@
+/* add code here to make your image 300px square */
+#pet {
+	width: 300px;
+	height: 300px;	
+	border: solid rgb(0, 51, 255) 5px;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+/* add code here to change the color and font family of your name/title */
+#title
+{
+    color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#name
+{
+    color: rgb(190, 20, 209);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Bonus: change the color of your list elements */
+#list
+{
+   color:rgb(0, 51, 255);
+}
